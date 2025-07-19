@@ -1,6 +1,6 @@
 ---
 title: Welcome to Overhype!
-published\_at: 2025-07-19T17:30:00.000Z
+published_at: 2025-07-19T17:30:00.000Z
 blurb: The beginning of our journey.
 ---
 
