@@ -1,5 +1,5 @@
 ---
-title: ntfy: Our Notification Service
+title: ntfy: "Our Notification Service"
 published_at: 2026-10-01T23:00:00.000Z
 blurb: Discover how we keep our systems talking and our team informed using ntfy.
 ---
